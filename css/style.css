@@ -408,7 +408,7 @@ a:focus {
           align-items: center;
 }
 
-.about_section .img-box img {
+.about_section video .img-box img {
   max-width: 100%;
 }
 
@@ -519,7 +519,7 @@ a:focus {
   position: relative;
 }
 
-.server_section .img-box img {
+.server_section .img-box video {
   width: 100%;
 }
 
