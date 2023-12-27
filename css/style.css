@@ -408,7 +408,7 @@ a:focus {
           align-items: center;
 }
 
-.about_section video .img-box img {
+.about_section .img-box img {
   max-width: 100%;
 }
 
